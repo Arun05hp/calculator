@@ -1,0 +1,35 @@
+body{
+	background: -moz-linear-gradient(left, rgba(181,226,238,1) 0%, rgba(181,226,238,1) 18%, rgba(85,211,232,1) 47%, rgba(42,204,229,1) 60%, rgba(190,230,239,1) 89%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(181,226,238,1)), color-stop(18%, rgba(181,226,238,1)), color-stop(47%, rgba(85,211,232,1)), color-stop(60%, rgba(42,204,229,1)), color-stop(89%, rgba(190,230,239,1)));
+background: -webkit-linear-gradient(left, rgba(181,226,238,1) 0%, rgba(181,226,238,1) 18%, rgba(85,211,232,1) 47%, rgba(42,204,229,1) 60%, rgba(190,230,239,1) 89%);
+background: -o-linear-gradient(left, rgba(181,226,238,1) 0%, rgba(181,226,238,1) 18%, rgba(85,211,232,1) 47%, rgba(42,204,229,1) 60%, rgba(190,230,239,1) 89%);
+background: -ms-linear-gradient(left, rgba(181,226,238,1) 0%, rgba(181,226,238,1) 18%, rgba(85,211,232,1) 47%, rgba(42,204,229,1) 60%, rgba(190,230,239,1) 89%);
+}
+div.color{
+	background-color: green;
+	padding: 25px;
+}
+
+div.container{
+	width: 450px;
+}
+
+button{
+	padding:10px 55px; 
+	width: 100%;
+	border-collapse: collapse;
+	background: -moz-linear-gradient(-45deg, rgba(255,249,82,1) 0%, rgba(236,245,74,1) 24%, rgba(198,237,59,1) 71%, rgba(198,237,59,1) 80%);
+background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(255,249,82,1)), color-stop(24%, rgba(236,245,74,1)), color-stop(71%, rgba(198,237,59,1)), color-stop(80%, rgba(198,237,59,1)));
+background: -webkit-linear-gradient(-45deg, rgba(255,249,82,1) 0%, rgba(236,245,74,1) 24%, rgba(198,237,59,1) 71%, rgba(198,237,59,1) 80%);
+background: -o-linear-gradient(-45deg, rgba(255,249,82,1) 0%, rgba(236,245,74,1) 24%, rgba(198,237,59,1) 71%, rgba(198,237,59,1) 80%);
+background: -ms-linear-gradient(-45deg, rgba(255,249,82,1) 0%, rgba(236,245,74,1) 24%, rgba(198,237,59,1) 71%, rgba(198,237,59,1) 80%);
+}
+
+table{
+	margin: 0 auto;
+}
+
+input{
+	width: 100%;
+	padding: 25px 0;
+}
